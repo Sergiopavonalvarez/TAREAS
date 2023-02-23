@@ -6,8 +6,6 @@ public class coche_prueba {
 	String color;
 	double precio;
 	Boolean isarrancado;
-	
-	
 	public void arrancar_coche() {
 		
 		if (isarrancado!=true) {
